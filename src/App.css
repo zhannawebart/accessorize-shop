@@ -186,6 +186,7 @@ input {
   color:  #faf5e2;
   font-size: 17px;
   outline: none;
+  resize: "none";
 }
 
 .form-btn {
